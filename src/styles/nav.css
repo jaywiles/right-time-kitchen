@@ -1,0 +1,26 @@
+.main-nav {
+  background-color: lightgray;
+  padding: 10px;
+  text-align: center;
+}
+
+.nav-button {
+  
+  /* padding: 10%; */
+}
+
+.nav-left {
+  text-align: left;
+  padding: 0px 10px;
+}
+
+.nav-center {
+  text-align: center;
+  padding: 0px 20%;
+  font-size: 30px;
+}
+
+.nav-right {
+  text-align: right;
+  padding: 0px 10px;
+}
